@@ -1,0 +1,36 @@
+.container{
+    width: 400px;
+
+}
+.screen{
+    height: 100px;
+    line-height: 100px;
+    padding: 0 20px;
+    font-size:30px;
+    text-align: right;
+    background: #262834;
+    color: #fff;
+}
+.buttons{
+    display: flex;
+    flex-wrap: wrap;
+}
+button{
+    width: 100px;
+    height: 80px;
+    border: none;
+    outline: 0;
+    color: #fff;
+    background: #262834;
+    cursor: pointer;
+    font-size: 25px;
+    border: 1px solid rgb(92, 92, 92);
+}
+.color{
+    background: #56cddb;
+    color: #262834;
+    font-weight: bold;
+}
+.tow{
+    width: 200px;
+}
